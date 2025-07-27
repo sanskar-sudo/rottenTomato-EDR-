@@ -1,3 +1,4 @@
+![Alt Text for the image](https://www.pngkit.com/png/full/153-1531453_image-freeuse-library-roma-tomato-t-shirt-cartoon.png)
 # RottenTomato EDR 🍅  
 
 A project that builds a simple Windows EDR (Endpoint Detection and Response) from the ground up, starting with a basic kernel driver and progressively adding more advanced security features.  
