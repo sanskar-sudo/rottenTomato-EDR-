@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/vectors/fly-tomato-vector-id481797999?k=6&m=481797999&s=612x612&w=0&h=rDqZ3GnSM8GmlxJuxFFbqAAis4YTIuXv6J3AC2ROJ5E=" alt="Alt Text for the image" width="300"/>
+<img src="https://images.squarespace-cdn.com/content/v1/63e663bb029b8054ba134992/6c8f36c0-0d25-4e5f-bf74-f2beb1ea99f6/TTP_Mascot_Illo_TomatoGuy.png?format=1500w" alt="Alt Text for the image" width="300"/>
 # RottenTomato EDR 🍅  
 
 A project that builds a simple Windows EDR (Endpoint Detection and Response) from the ground up, starting with a basic kernel driver and progressively adding more advanced security features.  
