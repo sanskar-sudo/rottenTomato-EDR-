@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/63e663bb029b8054ba134992/6c8f36c0-0d25-4e5f-bf74-f2beb1ea99f6/TTP_Mascot_Illo_TomatoGuy.png?format=1500w" alt="Alt Text for the image" width="300"/>
 </div>
+
 # RottenTomato EDR 🍅  
 
 A project that builds a simple Windows EDR (Endpoint Detection and Response) from the ground up, starting with a basic kernel driver and progressively adding more advanced security features.  
