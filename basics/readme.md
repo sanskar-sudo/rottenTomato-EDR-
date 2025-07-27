@@ -1,4 +1,4 @@
-### 1. Basic Driver
+###  Basic Driver
 
 This folder contains the foundational source code for a minimal Windows kernel driver.
 
@@ -12,7 +12,7 @@ This folder contains the foundational source code for a minimal Windows kernel d
     * **`UnloadRottenTomato`:** The unload routine that cleans up resources when the driver is stopped. It deletes the device object and the symbolic link.
 * **Behavior:** This driver doesn't have any security features. It simply loads into the kernel, creates its device, and waits to be unloaded. It's the "Hello, World!" of kernel drivers.
 
-### 2. Mimikatz Detection
+###  Mimikatz Detection
 
 This folder enhances the basic driver by adding the first EDR feature: process monitoring and blocking.
 
